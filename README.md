@@ -43,7 +43,7 @@ My personal movie reviews from November 2015 onwards.
 ## R
 
 ## S
-- (Snatch)[http://www.imdb.com/title/tt0208092/] 8/10
+- [Snatch](http://www.imdb.com/title/tt0208092/) 8/10
 
 ## T
 
