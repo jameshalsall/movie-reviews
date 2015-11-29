@@ -52,6 +52,7 @@ My personal movie reviews from November 2015 onwards.
 ## V
 
 ## W
+- [Wedding Crashers](http://www.imdb.com/title/tt0396269/) 7/10
 
 ## X
 
