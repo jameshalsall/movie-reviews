@@ -61,4 +61,4 @@ My personal movie reviews from November 2015 onwards.
 ## Z
 
 ## 0-9
-- (30 Minutes or Less)[http://www.imdb.com/title/tt1622547/] 6/10
+- [30 Minutes or Less](http://www.imdb.com/title/tt1622547/) 6/10
