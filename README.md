@@ -6,11 +6,15 @@ My personal movie reviews from November 2015 onwards.
 - [About Time](http://www.imdb.com/title/tt2194499/) 7/10
 
 ## B
+- [Batman Begins](http://www.imdb.com/title/tt0372784/) 9/10
 
 ## C
 - [The Counsellor](http://www.imdb.com/title/tt2193215/) 4/10
+- [Casino Royale](http://www.imdb.com/title/tt0381061/) 8/10
 
 ## D
+- [The Dark Knight](http://www.imdb.com/title/tt0468569/) 10/10
+- [The Dark Knight Rises](http://www.imdb.com/title/tt1345836/) 8/10
 
 ## E
 
@@ -20,6 +24,7 @@ My personal movie reviews from November 2015 onwards.
 
 ## H
 - [The Hobbit: The Battle of the Five Armies](http://www.imdb.com/title/tt2310332/) 7/10
+- [The Heartbreak Kid](http://www.imdb.com/title/tt0408839/) 6/10
 
 ## I
 
@@ -39,11 +44,14 @@ My personal movie reviews from November 2015 onwards.
 ## P
 
 ## Q
+- [Quantum of Solace](http://www.imdb.com/title/tt0830515/) 6/10
 
 ## R
 
 ## S
 - [Snatch](http://www.imdb.com/title/tt0208092/) 8/10
+- [Spectre](http://www.imdb.com/title/tt2379713/) 7/10
+- [Skyfall](http://www.imdb.com/title/tt1074638/) 7/10
 
 ## T
 
