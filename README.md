@@ -19,6 +19,7 @@ My personal movie reviews from November 2015 onwards.
 ## E
 
 ## F
+- [Fargo](http://www.imdb.com/title/tt0116282/) 8/10
 
 ## G
 
@@ -47,6 +48,7 @@ My personal movie reviews from November 2015 onwards.
 - [Quantum of Solace](http://www.imdb.com/title/tt0830515/) 6/10
 
 ## R
+- [The Ridiculous 6](http://www.imdb.com/title/tt2479478/) 5/10
 
 ## S
 - [Snatch](http://www.imdb.com/title/tt0208092/) 8/10
