@@ -8,6 +8,7 @@ My personal movie reviews from November 2015 onwards.
 
 ## B
 - [Batman Begins](http://www.imdb.com/title/tt0372784/) 9/10
+- [Boyhood](http://www.imdb.com/title/tt1065073/) 8/10
 
 ## C
 - [The Counsellor](http://www.imdb.com/title/tt2193215/) 4/10
