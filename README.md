@@ -8,11 +8,15 @@ My personal movie reviews from November 2015 onwards.
 
 ## B
 - [Batman Begins](http://www.imdb.com/title/tt0372784/) 9/10
+- [Batman v Superman (Theatrical Cut)](http://www.imdb.com/title/tt2975590) 6/10
+- [Batman v Superman (Ultimate Cut)](http://www.imdb.com/title/tt2975590) 7/10
 - [Boyhood](http://www.imdb.com/title/tt1065073/) 8/10
 
 ## C
+- [Captain America: Civil War](http://www.imdb.com/title/tt3498820/) 8/10
+- [Central Intelligence](http://www.imdb.com/title/tt1489889/) 5/10
 - [The Counsellor](http://www.imdb.com/title/tt2193215/) 4/10
-- [Casino Royale](http://www.imdb.com/title/tt0381061/) 8/10
+- [Casino Royale](http://www.imdb.com/title/tt0381061/) 9/10
 - [Christmas Vacation](http://www.imdb.com/title/tt0097958/) 6/10
 
 ## D
@@ -62,6 +66,7 @@ My personal movie reviews from November 2015 onwards.
 - [Star Wars: Episode IV - A New Hope](http://www.imdb.com/title/tt0076759/) 8/10
 - [Star Wars: Episode V - The Empire Strikes Back](http://www.imdb.com/title/tt0080684/) 9/10
 - [Star Wars: Episode VI - Return of the Jedi](http://www.imdb.com/title/tt0086190/) 9/10
+- [Suicide Squad](http://www.imdb.com/title/tt1386697/) 6/10
 
 ## T
 
