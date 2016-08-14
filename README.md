@@ -32,12 +32,15 @@ My personal movie reviews from November 2015 onwards.
 
 ## H
 - [The Hobbit: The Battle of the Five Armies](http://www.imdb.com/title/tt2310332/) 7/10
+- [The Hateful Eight](http://www.imdb.com/title/tt3460252/) 8/10
 - [The Heartbreak Kid](http://www.imdb.com/title/tt0408839/) 6/10
 
 ## I
+- [Inglorious Basterds](http://www.imdb.com/title/tt0361748/) 9/10
 - [It's a Wonderful Life](http://www.imdb.com/title/tt0038650/) 8/10
 
 ## J
+- [Jackie Brown](http://www.imdb.com/title/tt0119396/) 8/10
 
 ## K
 
