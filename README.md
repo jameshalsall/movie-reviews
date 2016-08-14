@@ -62,13 +62,14 @@ My personal movie reviews from November 2015 onwards.
 - [Snatch](http://www.imdb.com/title/tt0208092/) 8/10
 - [Spectre](http://www.imdb.com/title/tt2379713/) 7/10
 - [Skyfall](http://www.imdb.com/title/tt1074638/) 7/10
-- [Star Wars: The Force Awakes](http://www.imdb.com/title/tt2488496/) 8/10
+- [Star Wars: Episode VII - The Force Awakens](http://www.imdb.com/title/tt2488496/) 8/10
 - [Star Wars: Episode IV - A New Hope](http://www.imdb.com/title/tt0076759/) 8/10
 - [Star Wars: Episode V - The Empire Strikes Back](http://www.imdb.com/title/tt0080684/) 9/10
 - [Star Wars: Episode VI - Return of the Jedi](http://www.imdb.com/title/tt0086190/) 9/10
 - [Suicide Squad](http://www.imdb.com/title/tt1386697/) 6/10
 
 ## T
+- [Terminator Genisys](http://www.imdb.com/title/tt1340138/) 6/10
 
 ## U
 
