@@ -31,6 +31,7 @@ My personal movie reviews from November 2015 onwards.
 ## G
 
 ## H
+- [Hard Eight](http://www.imdb.com/title/tt0119256/) 8/10
 - [The Hobbit: The Battle of the Five Armies](http://www.imdb.com/title/tt2310332/) 7/10
 - [The Hateful Eight](http://www.imdb.com/title/tt3460252/) 8/10
 - [The Heartbreak Kid](http://www.imdb.com/title/tt0408839/) 6/10
@@ -59,7 +60,7 @@ My personal movie reviews from November 2015 onwards.
 - [Quantum of Solace](http://www.imdb.com/title/tt0830515/) 6/10
 
 ## R
-- [The Ridiculous 6](http://www.imdb.com/title/tt2479478/) 5/10
+- [The Ridiculous 6](http://www.imdb.com/title/tt2479478/) 4/10
 
 ## S
 - [Snatch](http://www.imdb.com/title/tt0208092/) 8/10
