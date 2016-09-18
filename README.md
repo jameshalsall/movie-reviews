@@ -12,6 +12,7 @@ My personal movie reviews from November 2015 onwards.
 - [Batman v Superman (Theatrical Cut)](http://www.imdb.com/title/tt2975590) 6/10
 - [Batman v Superman (Ultimate Cut)](http://www.imdb.com/title/tt2975590) 7/10
 - [Boyhood](http://www.imdb.com/title/tt1065073/) 8/10
+- [Broken City](http://www.imdb.com/title/tt1235522/) 7/10
 
 ## C
 - [Captain America: Civil War](http://www.imdb.com/title/tt3498820/) 8/10
@@ -29,8 +30,10 @@ My personal movie reviews from November 2015 onwards.
 
 ## F
 - [Fargo](http://www.imdb.com/title/tt0116282/) 8/10
+- [Fittest on Earth](http://www.imdb.com/title/tt5503594/) 6/10
 
 ## G
+- [Get Shorty](http://www.imdb.com/title/tt0113161/) 6/10
 
 ## H
 - [Hard Eight](http://www.imdb.com/title/tt0119256/) 8/10
@@ -54,6 +57,7 @@ My personal movie reviews from November 2015 onwards.
 - [Mousehunt](http://www.imdb.com/title/tt0119715/) 7/10
 
 ## N
+- [The Nice Guys](http://www.imdb.com/title/tt3799694/) 8/10
 
 ## O
 
