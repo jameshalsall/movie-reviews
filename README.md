@@ -23,6 +23,7 @@ My personal movie reviews from November 2015 onwards.
 - [Creed](http://www.imdb.com/title/tt3076658/) 7/10
 
 ## D
+- [Dan in Real Life](http://www.imdb.com/title/tt0480242/) 6/10
 - [The Dark Knight](http://www.imdb.com/title/tt0468569/) 10/10
 - [The Dark Knight Rises](http://www.imdb.com/title/tt1345836/) 8/10
 
@@ -68,6 +69,7 @@ My personal movie reviews from November 2015 onwards.
 
 ## R
 - [The Ridiculous 6](http://www.imdb.com/title/tt2479478/) 4/10
+- [Rolling Papers](http://www.imdb.com/title/tt3621360/) 6/10
 
 ## S
 - [Snatch](http://www.imdb.com/title/tt0208092/) 8/10
