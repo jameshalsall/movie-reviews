@@ -49,6 +49,7 @@ My personal movie reviews from November 2015 onwards.
 
 ## J
 - [Jackie Brown](http://www.imdb.com/title/tt0119396/) 8/10
+- [Jurassic Park](http://www.imdb.com/title/tt0107290/) 8/10
 
 ## K
 
