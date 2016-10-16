@@ -58,6 +58,7 @@ My personal movie reviews from November 2015 onwards.
 
 ## M
 - [Mousehunt](http://www.imdb.com/title/tt0119715/) 7/10
+- [The Martian](http://www.imdb.com/title/tt3659388/) 8/10
 
 ## N
 - [The Nice Guys](http://www.imdb.com/title/tt3799694/) 8/10
