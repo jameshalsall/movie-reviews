@@ -18,7 +18,7 @@ My personal movie reviews from November 2015 onwards.
 - [Captain America: Civil War](http://www.imdb.com/title/tt3498820/) 8/10
 - [Casino Royale](http://www.imdb.com/title/tt0381061/) 9/10
 - [Central Intelligence](http://www.imdb.com/title/tt1489889/) 5/10
-- [Christmas Vacation](http://www.imdb.com/title/tt0097958/)
+- [Christmas Vacation](http://www.imdb.com/title/tt0097958/) 6/10
 - [The Counsellor](http://www.imdb.com/title/tt2193215/) 4/10
 - [Creed](http://www.imdb.com/title/tt3076658/) 7/10
 - [The Culture High](http://www.imdb.com/title/tt1778338/) 8/10
