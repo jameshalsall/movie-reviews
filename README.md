@@ -33,6 +33,7 @@ My personal movie reviews from November 2015 onwards.
 ## F
 - [Fargo](http://www.imdb.com/title/tt0116282/) 8/10
 - [Fittest on Earth](http://www.imdb.com/title/tt5503594/) 6/10
+- [The Fundamentals of Caring](http://www.imdb.com/title/tt2452386/) 6/10
 
 ## G
 - [Get Shorty](http://www.imdb.com/title/tt0113161/) 6/10
@@ -93,6 +94,7 @@ My personal movie reviews from November 2015 onwards.
 
 ## W
 - [Wedding Crashers](http://www.imdb.com/title/tt0396269/) 7/10
+- [We Are Legion](http://www.imdb.com/title/tt2177843/) 6/10
 
 ## X
 
