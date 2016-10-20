@@ -101,6 +101,7 @@ My personal movie reviews from November 2015 onwards.
 ## Y
 
 ## Z
+- [Zeitgeist](http://www.imdb.com/title/tt1166827/) 9/10
 
 ## 0-9
 - [30 Minutes or Less](http://www.imdb.com/title/tt1622547/) 6/10
