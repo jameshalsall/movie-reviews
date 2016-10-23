@@ -33,10 +33,12 @@ My personal movie reviews from November 2015 onwards.
 ## F
 - [Fargo](http://www.imdb.com/title/tt0116282/) 8/10
 - [Fittest on Earth](http://www.imdb.com/title/tt5503594/) 6/10
+- [Four Lions](http://www.imdb.com/title/tt1341167/) 6/10
 - [The Fundamentals of Caring](http://www.imdb.com/title/tt2452386/) 6/10
 
 ## G
 - [Get Shorty](http://www.imdb.com/title/tt0113161/) 6/10
+- [Gangster Squad](http://www.imdb.com/title/tt1321870/) 6/10
 
 ## H
 - [Hard Eight](http://www.imdb.com/title/tt0119256/) 8/10
